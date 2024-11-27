@@ -4,19 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0f97573-0d38-4a9a-ae2f-94595dae3541" name="Changes" comment="" />
+    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2pREQQmzKLehu1tCCUpaBkAkqDz" />
+  <component name="ProjectId" id="2pRUkdsVWKsQq38LRhJbflXz00T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +40,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -34,11 +49,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0f97573-0d38-4a9a-ae2f-94595dae3541" name="Changes" comment="" />
-      <created>1732720473160</created>
+      <changelist id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="" />
+      <created>1732728525940</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1732720473160</updated>
+      <updated>1732728525940</updated>
     </task>
     <servers />
   </component>
