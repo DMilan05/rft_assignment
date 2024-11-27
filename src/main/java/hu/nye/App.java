@@ -1,9 +1,9 @@
 package hu.nye;
 
 import hu.nye.model.UniversitySystem;
-import hu.nye.nyestakeholders.Administrator;
-import hu.nye.nyestakeholders.Student;
-import hu.nye.nyestakeholders.Teacher;
+import hu.nye.stakeholders.Administrator;
+import hu.nye.stakeholders.Student;
+import hu.nye.stakeholders.Teacher;
 
 import java.util.Scanner;
 

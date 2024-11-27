@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +25,26 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrDarthBlue"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DMilan05/rft_assignment.git",
+    "accountId": "6fcb0f03-9515-4279-8f89-cff9d3c44405"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pRUkdsVWKsQq38LRhJbflXz00T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +55,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "BalintLaszlo",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
