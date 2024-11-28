@@ -1,5 +1,7 @@
 package hu.nye.model;
 
+import hu.nye.stakeholders.User;
+
 public class Exam {
     private String name;
     private User creator;
