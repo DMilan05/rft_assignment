@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +25,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pRUkdsVWKsQq38LRhJbflXz00T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "BalintLaszlo",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -55,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732728525940</updated>
     </task>
+    <task id="LOCAL-00001" summary="Student and Teacher classes have been created.">
+      <option name="closed" value="true" />
+      <created>1732791264252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732791264252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Student and Teacher classes have been created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Student and Teacher classes have been created." />
   </component>
 </project>
