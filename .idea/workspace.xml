@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" afterDir="false" />
-    </list>
+    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="Added UnauthorizedActionException class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +38,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Maven.rft_assignment_project [install].executor": "Run",
+    "Maven.rft_assignment_project [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "ArokszallasiRichardLaszlo",
@@ -67,11 +62,56 @@
       <option name="project" value="LOCAL" />
       <updated>1732791264252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed some things that were already in.">
+      <option name="closed" value="true" />
+      <created>1733509244039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733509244039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created the ExamController files">
+      <option name="closed" value="true" />
+      <created>1733509292827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733509292827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created the ExamController and ExamControllerSteps(test class)">
+      <option name="closed" value="true" />
+      <created>1733509360231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733509360231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created SwaggerConfig and SwaggerConfigSteps (test class)">
+      <option name="closed" value="true" />
+      <created>1733509397933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733509397933</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added UnauthorizedActionException class">
+      <option name="closed" value="true" />
+      <created>1733509442187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733509442187</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Student and Teacher classes have been created." />
-    <option name="LAST_COMMIT_MESSAGE" value="Student and Teacher classes have been created." />
+    <MESSAGE value="Fixed some things that were already in." />
+    <MESSAGE value="Created the ExamController files" />
+    <MESSAGE value="Created the ExamController and ExamControllerSteps(test class)" />
+    <MESSAGE value="Created SwaggerConfig and SwaggerConfigSteps (test class)" />
+    <MESSAGE value="Added UnauthorizedActionException class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added UnauthorizedActionException class" />
   </component>
 </project>
