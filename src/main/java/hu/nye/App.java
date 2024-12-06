@@ -6,15 +6,18 @@ import hu.nye.stakeholders.Student;
 import hu.nye.stakeholders.Teacher;
 
 import java.util.Scanner;
-
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Hello world!
  *
  */
+@SpringBootApplication
 public class App
 {
     public static void main( String[] args )
     {
+        SpringApplication.run(App.class, args);
         UniversitySystem system = new UniversitySystem();
         Scanner scanner = new Scanner(System.in);
 
@@ -31,16 +34,19 @@ public class App
                     System.out.print("Enter exam name to create: ");
                     examName = scanner.nextLine();
                     teacher.createExam(system, examName);
+                    break;
                 }
                 case "delete" : {
                     System.out.print("Enter exam name to delete: ");
                     examName = scanner.nextLine();
                     admin.deleteExam(system, examName);
+                    break;
                 }
                 case "register" : {
                     System.out.print("Enter exam name to register: ");
                     examName = scanner.nextLine();
                     student.registerForExam(system, examName);
+                    break;
                 }
                 case "quit" : {
                     System.out.println("Exiting system.");

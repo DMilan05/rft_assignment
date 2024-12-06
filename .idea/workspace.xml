@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="Updated pom.xml." />
+    <list default="true" id="ffde7aaf-b235-460f-a0f3-f53722b193c8" name="Changes" comment="Add test step to CI pipeline.">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/model/UniversitySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/stakeholders/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,14 +62,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;DobosMilanImre&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven.rft_assignment_project [install].executor": "Run",
+    "Maven.rft_assignment_project [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "DobosMilanImre",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/OneDrive/Asztali gép/rft_assignment-DobosMilanImre"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hu.nye" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="rft_assignment-DobosMilanImre" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="rft_assignment-DobosMilanImre" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,61 +135,12 @@
       <option name="project" value="LOCAL" />
       <updated>1732981199127</updated>
     </task>
-    <task id="LOCAL-00005" summary="Add test step to CI pipeline.">
-      <option name="closed" value="true" />
-      <created>1732982106912</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1732982106913</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Updated pom.xml.">
-      <option name="closed" value="true" />
-      <created>1733479551392</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1733479551392</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Updated pom.xml.">
-      <option name="closed" value="true" />
-      <created>1733482292621</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1733482292621</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Updated pom.xml.">
-      <option name="closed" value="true" />
-      <created>1733482421832</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1733482421832</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Updated pom.xml.">
-      <option name="closed" value="true" />
-      <created>1733482490172</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1733482490172</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Updated pom.xml.">
-      <option name="closed" value="true" />
-      <created>1733482560524</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1733482560524</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CI-CD pipeline creation." />
     <MESSAGE value="Add test step to CI pipeline." />
-    <MESSAGE value="Updated pom.xml." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated pom.xml." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add test step to CI pipeline." />
   </component>
 </project>
