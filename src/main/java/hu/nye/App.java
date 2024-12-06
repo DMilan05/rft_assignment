@@ -4,6 +4,8 @@ import hu.nye.model.UniversitySystem;
 import hu.nye.stakeholders.Administrator;
 import hu.nye.stakeholders.Student;
 import hu.nye.stakeholders.Teacher;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Scanner;
 
@@ -15,6 +17,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        SpringApplication.run(App.class, args);
         UniversitySystem system = new UniversitySystem();
         Scanner scanner = new Scanner(System.in);
 

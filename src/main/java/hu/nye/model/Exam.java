@@ -12,6 +12,9 @@ public class Exam {
         this.creator = creator;
     }
 
+    public Exam(String examName) {
+    }
+
     public String getName() {
         return name;
     }
