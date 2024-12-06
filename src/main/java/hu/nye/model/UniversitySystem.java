@@ -4,7 +4,9 @@ import hu.nye.stakeholders.Administrator;
 import hu.nye.stakeholders.Teacher;
 import hu.nye.stakeholders.User;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class UniversitySystem {
@@ -36,4 +38,5 @@ public class UniversitySystem {
     public Exam getExam(String examName) {
         return exams.get(examName);
     }
+
 }
