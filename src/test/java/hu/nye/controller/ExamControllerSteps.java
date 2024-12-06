@@ -56,3 +56,4 @@ public class ExamControllerSteps {
         response = examController.registerForExam(examName, student);
     }
 }
+
