@@ -27,16 +27,6 @@ jobs:
       - name: Run tests
         run: mvn test
 
-      # Step 4: Build Docker image
-      - name: Build Docker image
-        run: |
-          docker build -t username/exam-management-system:latest .
-
-      # Step 5: Push Docker image to DockerHub or GitHub Container Registry
-      - name: Push Docker image
-        run: |
-          docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
-          docker push username/exam-management-system:latest
 
   # Deploy job (if you have a staging environment or some automated deploy)
   deploy:
