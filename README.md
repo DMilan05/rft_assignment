@@ -2,6 +2,8 @@ This is a University Exam system, implemented in Java 21. We chose to create API
 
 The UI can be opened in SwaggerUI, using this link: http://localhost:8080/swagger-ui/index.html#/
 
+We used Google Chrome for the UI.
+
 The final project is located in the assignment branch.
 
 We used to following Dependencies: JUnit5 (test), Cucumber and Rest Assured (API test), SpringBoot and SpringFramework
